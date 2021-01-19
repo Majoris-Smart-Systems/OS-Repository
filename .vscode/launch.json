@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Animation",
+            "request": "launch",
+            "mainClass": "com.esisa.os.application.Animation",
+            "projectName": "p01"
+        }
+    ]
+}
